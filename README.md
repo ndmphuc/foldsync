@@ -18,7 +18,7 @@ FoldSync is a Flutter-based desktop application designed to synchronize files an
 
 ## Screenshots
 
-*(Add screenshots of the FoldSync UI here, e.g., main window, preview dialog. Create an `assets/` folder in the repository and reference images like `![Main Window](assets/main-window.png)`.)*
+![Main Window](assets/main-window.png)
 
 ## Installation
 
